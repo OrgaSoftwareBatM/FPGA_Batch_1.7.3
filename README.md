@@ -8,10 +8,9 @@ The driver's references/sources are available online at:
 
 - ATM DelayLine : MCode driver Schneider electric http://motion.schneider-electric.com/support/mdrive/programs/MCode_LV_86.zip
 - NI FPGA : sbRIO, cRIO, NI RealTime e.g. http://www.ni.com/product-documentation/14031/en/#toc3 
-- ADC : 
+- ADC : NI-DAQmx e.g. http://www.ni.com/download/ni-daqmx-17.0/6624/en/
 - AWG : Tektronix AWG700 http://www.tek.com/awg710-0-software/awg700-series-gpib-programming-and-labview-driver
-- DAC : 
-- DAC_Lock-in : 
+- DAC/DAC_Lock-in : FPGA DAC
 - GPIB : 
 - Keithley K2000 : http://sine.ni.com/apps/utf8/niid_web_display.download_page?p_id_guid=014E6EF883B9743DE0440003BA7CCD71
 - LeCroy6050A : http://sine.ni.com/apps/utf8/niid_web_display.model_page?p_model_id=14658
