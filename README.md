@@ -10,7 +10,7 @@ The driver's references/sources are available online at:
 - NI FPGA : sbRIO, cRIO, NI RealTime e.g. http://www.ni.com/product-documentation/14031/en/#toc3 
 - ADC : NI-DAQmx e.g. http://www.ni.com/download/ni-daqmx-17.0/6624/en/
 - AWG : Tektronix AWG700 http://www.tek.com/awg710-0-software/awg700-series-gpib-programming-and-labview-driver
-- DAC/DAC_Lock-In : FPGA DAC http://www.ni.com/product-documentation/10622/en/ e.g. Readout FPGA : http://www.ni.com/example/31180/en/
+- DAC/DAC_Lock-In : FPGA DAC http://www.ni.com/product-documentation/10622/en/ e.g. Readout FPGA ADC : http://www.ni.com/example/31180/en/
 - DSP Lock-In : http://sine.ni.com/apps/utf8/niid_web_display.model_page?p_model_id=1998
 - GPIB : https://forums.ni.com/t5/Example-Programs/GPIB-Example-for-LabVIEW/ta-p/3526176
 - Keithley K2000 : http://sine.ni.com/apps/utf8/niid_web_display.download_page?p_id_guid=014E6EF883B9743DE0440003BA7CCD71
