@@ -6,7 +6,7 @@ We try to comply with http://www.ni.com/downloads/instrument-drivers/license/
 
 The driver's references/sources are available online at: 
 
-- ATM DelayLine : MCode LabVIEW Driver http://motion.schneider-electric.com/support/mdrive/programs/MCode_LV_86.zip
+- ATM DelayLine : MCode driver Schneider electric http://motion.schneider-electric.com/support/mdrive/programs/MCode_LV_86.zip
 - NI FPGA : sbRIO, cRIO, NI RealTime e.g. http://www.ni.com/product-documentation/14031/en/#toc3 
 - ADC : 
 - AWG : Tektronix AWG700 http://www.tek.com/awg710-0-software/awg700-series-gpib-programming-and-labview-driver
@@ -15,5 +15,5 @@ The driver's references/sources are available online at:
 - GPIB : 
 - Keithley K2000 : http://sine.ni.com/apps/utf8/niid_web_display.download_page?p_id_guid=014E6EF883B9743DE0440003BA7CCD71
 - LeCroy6050A : http://sine.ni.com/apps/utf8/niid_web_display.model_page?p_model_id=14658
-- RF Rohde Schwarz :  
+- RF : Rohde Schwarz SMB100A https://www.rohde-schwarz.com/fr/pilote/smb100a/ 
 - Attenuator : 
