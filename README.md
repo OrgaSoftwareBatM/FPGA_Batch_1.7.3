@@ -18,4 +18,4 @@ The driver's references/sources are available online at:
 - Keithley K2000 : http://sine.ni.com/apps/utf8/niid_web_display.download_page?p_id_guid=014E6EF883B9743DE0440003BA7CCD71
 - LeCroy6050A : http://sine.ni.com/apps/utf8/niid_web_display.model_page?p_model_id=14658
 - RF : Rohde Schwarz SMB100A https://www.rohde-schwarz.com/fr/pilote/smb100a/ 
-- RF Attenuator : Vaunix
+- RF Attenuator : Vaunix http://vaunix.com/products/digital-attenuators/overview/
