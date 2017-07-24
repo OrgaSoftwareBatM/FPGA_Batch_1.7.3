@@ -1,0 +1,15 @@
+[BT-sbRIO9602-50-137]
+BT-sbRIO9602-50-137 = "169.254.84.198"
+
+[BT-sbRIO9602-50-137 2]
+BT-sbRIO9602-50-137 2 = "192.168.0.21"
+
+[BT-sbRIO9612_192-168-0-9]
+BT-sbRIO9612_192-168-0-9 = "192.168.0.09"
+
+[My Computer]
+My Computer = "147.173.49.244"
+
+[RT Single-Board RIO]
+RT Single-Board RIO = "10.0.0.2"
+
